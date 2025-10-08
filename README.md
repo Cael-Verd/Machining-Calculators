@@ -5,7 +5,7 @@ Just hit "run"  and input the values thst it asks for.
 
 These were designed for me, so they are as-is with no planned updates or changes. If I do decide to update them, I will upload them.
 
-The cöChip Thinning calculator will output IPM, RPM, chip thinning adjustment, MRR and Spindle HP.
+The Chip Thinning calculator will output IPM, RPM, chip thinning adjustment, MRR and Spindle HP.
 
 The Ball End Mill calculator will adjust IPM and RPM based on end mill diameter and cutting depth
 
